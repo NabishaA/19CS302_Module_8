@@ -29,8 +29,8 @@ To write a C program to print Hello Saveetha! on a single line, and then print t
 ```
 /*
 C program to find the smallest among three numbers using Structure.
-Developed by: AASHIKA PARVEEN M R
-RegisterNumber:  212223060002
+Developed by: Nabisha A
+RegisterNumber:  212223060177
 */
 #include <stdio.h>
 
